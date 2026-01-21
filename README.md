@@ -1,5 +1,4 @@
 # Designing-a-Measure-of-County-Level-Nutritious-Food-Access
-# Designing a Measure of County-Level Nutritious Food Access
 --- 
 # Research Question
 **What are the determinants and their measurable effects of nutritious food attainment within county-level food systems in the United States?**
